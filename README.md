@@ -10,3 +10,6 @@ The aim of the project is to practice basic html. As such, when it is finished i
 
 ## Post Project Reflections
 Project not finished, write this when done.
+
+## Attributions
+Ice cream image found https://www.publicdomainpictures.net/en/view-image.php?image=725607&picture=chocolate-ice-cream-cone
