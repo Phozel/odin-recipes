@@ -10,10 +10,9 @@ The aim of the project is to practice basic html. As such, when it is finished i
 
 ## To-Do
 Fill remaining recipe pages with content the same way chocolate ice cream has been done.
-- Lasagna
 - Instant Noodles
-- Spaghetti
-- Sponge Cake
+
+Add missing recipe images.
 
 ## Post Project Reflections
 Project not finished, write this when done.
